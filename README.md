@@ -1,2 +1,2 @@
 # TYITPROJECT
-This is mt college project
+This is my college project. 
